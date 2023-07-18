@@ -2,6 +2,22 @@
 
 ![Creating an NFT](./screenshots/minting.gif)
 
+## Description
+In this dapp the users can upload their digital assets to mint a NFT,then they will be able to start an auction.
+
+The dapp has 5 tabs: `Home`, `Mint` ,`Collection`,`Auction`,`Profile`.
+
+In `Home` you can connect your wallet with Metamask.
+
+In `Mint` you can create your NFT.
+
+In `Collection` you can visualize all the nft created.
+
+In `Auction` you can visualize the auctions created , place a bid and complete the auction.
+
+In `Profile` you can visualize your NFTs and you will be able to start an auction.
+
+
 ## Technology
 
 Backend:
